@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b7592ea4bf674b27a59476baae7468d7/artifacts
+deleted_time: 1708846040682
+end_time: 1708845204394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b7592ea4bf674b27a59476baae7468d7
+run_name: Logistic Regression
+run_uuid: b7592ea4bf674b27a59476baae7468d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708845109421
+status: 4
+tags: []
+user_id: Akshay Thorave

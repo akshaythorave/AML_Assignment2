@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2ae48a87f9774d9fbc618fc6da7a86ff/artifacts
+end_time: 1708882915830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ae48a87f9774d9fbc618fc6da7a86ff
+run_name: Naive Bayes
+run_uuid: 2ae48a87f9774d9fbc618fc6da7a86ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708882848910
+status: 4
+tags: []
+user_id: Akshay Thorave
