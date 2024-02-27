@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/b6cda9af17bb4aea8fd6a13b04fe67e9/artifacts
+deleted_time: 1708884768167
+end_time: 1708884555262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b6cda9af17bb4aea8fd6a13b04fe67e9
+run_name: SVM
+run_uuid: b6cda9af17bb4aea8fd6a13b04fe67e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708884170007
+status: 4
+tags: []
+user_id: Akshay Thorave

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/1da82db2792a48e8a44cc84688f13b78/artifacts
+deleted_time: 1709022957135
+end_time: 1709022358982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1da82db2792a48e8a44cc84688f13b78
+run_name: SVM
+run_uuid: 1da82db2792a48e8a44cc84688f13b78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709022357381
+status: 4
+tags: []
+user_id: kashyap

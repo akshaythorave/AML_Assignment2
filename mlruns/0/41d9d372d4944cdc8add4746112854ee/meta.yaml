@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/41d9d372d4944cdc8add4746112854ee/artifacts
+deleted_time: 1709024299984
+end_time: 1709024184757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 41d9d372d4944cdc8add4746112854ee
+run_name: Adaboost
+run_uuid: 41d9d372d4944cdc8add4746112854ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709023810116
+status: 4
+tags: []
+user_id: kashyap
